@@ -10,7 +10,7 @@
 Heart Disease Analysis involves a comprehensive examination of data related to cardiovascular health. The primary objective is to identify risk factors, diagnose potential conditions, and formulate treatment plans. This project harnesses a range of Python libraries for data analysis and visualization.
 
 ## Required Libraries
-
+ 
 Before diving into this project, make sure you have the following Python libraries and dependencies installed:
 
 - [tkinter](https://docs.python.org/3/library/tkinter.html): A library for creating graphical user interfaces (GUIs).
